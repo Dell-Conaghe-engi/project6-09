@@ -49,5 +49,3 @@ person = {"name": "Иван", "age": 30}
 print(person["name"])
 ```
 '''
-''''''
-''''''
